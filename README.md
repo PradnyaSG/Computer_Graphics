@@ -15,7 +15,7 @@ Algorithms and topics related to Computer Graphics.
 
 7. OpenGL-sunrise and sunset code
 
-###### Output screenchots for the first 6 codes and the video for the last code is also proivided in the same serial no. as mentioned above
+###### Output screenchots for the first 6 codes and the video of the output for the last code is also proivided in the same serial no. as mentioned above
 
 #### Note:The first 6 codes have been written in TURBO C++ IDE and the last in Visual Studio.
 
