@@ -15,7 +15,7 @@ Algorithms and topics related to Computer Graphics.
 
 7. OpenGL-sunrise and sunset code
 
-#### Note:The codes have been written in TURBO C++ IDE.
+#### Note:The first 6 codes have been written in TURBO C++ IDE and the last in Visual Studio.
 
 
 
