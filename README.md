@@ -9,11 +9,13 @@ Algorithms and topics related to Computer Graphics.
 
 4. Cohen-Sutherland Line Clipping algorithm
 
-5. Basic 2D Transformations
+5. Basic 2D Transformations on triangle and rhombus
 
 6. Snow flake generation using Koch curve
 
 7. OpenGL-sunrise and sunset code
+
+#### Note:The codes have been written in TURBO C++ IDE.
 
 
 
